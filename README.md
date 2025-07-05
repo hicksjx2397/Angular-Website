@@ -9,6 +9,7 @@ Our team began by reviewing stakeholder-provided ERDs and wireframes, which we u
 Throughout the week, I was actively involved in both frontend and backend development to ensure full-stack proficiency. We divided and assigned tasks among team members, with each person starting on 2–3 core features based on team planning sessions with our project lead.
 
 The goal was to deliver a functional Minimum Viable Product (MVP) by the end of the week. Once development wrapped at the set cut-off time, we shifted focus to preparing and rehearsing our presentation. Our team delivered a live demo and walkthrough of our app to the full Cook Systems team and internal staff, showcasing both functionality and technical understanding.
+
 ---
 
 ## ERD
